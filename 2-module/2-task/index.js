@@ -5,4 +5,7 @@
  * @returns {Object}
  */
 function find (obj, value) {
+	for ( let key in obj) {
+		
+	}
 }
