@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 let calendar = {
     from: new Date('2018-01-01T15:09:10Z'),
     to: new Date('2018-02-01T10:09:10Z')
@@ -29,16 +28,3 @@ calendar[Symbol.iterator] = function () {
 
 	  }
 };
-
-
-=======
-let calendar = {
-    from: new Date('2018-01-01T15:09:10Z'),
-    to: new Date('2018-02-01T10:09:10Z')
-};
-
-calendar[Symbol.iterator] = function () {
-};
-
-
->>>>>>> 32483304f2f33564235ac0ba938fc34992ae7719
