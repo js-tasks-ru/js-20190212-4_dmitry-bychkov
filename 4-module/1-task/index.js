@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 'use strict';
 
 /**
@@ -14,3 +15,14 @@ function makeFriendsList (friends) {
 	}
 	return ul;
 }
+=======
+'use strict';
+
+/**
+ * Генерация HTML списка друзей
+ * @param {Friend[]} friends
+ * @return {HTMLUListElement}
+ */
+function makeFriendsList (friends) {
+}
+>>>>>>> 32483304f2f33564235ac0ba938fc34992ae7719
