@@ -35,3 +35,4 @@ for (let day of calendar) {
 
 Для решения этой задачи, вам нужно обязательно понимать следующие главы
  - [Даты](http://learn.javascript.ru/datetime)
+ - [Итераторы](http://learn.javascript.ru/iterator)
