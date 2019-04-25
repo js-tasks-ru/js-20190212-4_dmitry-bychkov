@@ -5,6 +5,13 @@
  * @returns {string}
  */
 function showSalary(data, age) {
+	let sorted = [];
+	data.map(function(item) {
+		if(item.age <= age) {
+			sorted.push(`${item.name}, ${item.balance}`);
+		}
+	});
+	return sorted.join('\n');
 }
 
 
